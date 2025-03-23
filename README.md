@@ -1,2 +1,2 @@
-# python_odevleri
+# python_ogreniyoruz
 
